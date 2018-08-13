@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/suhailjain/Documents/FoodStore/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/suhailjain/Documents/FoodStore/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/suhailjain/Documents/FoodStore/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/suhailjain/Documents/FoodStore/node_modules/react-native/React/Base/RCTReloadCommand.h
